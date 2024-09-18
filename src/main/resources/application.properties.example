@@ -1,0 +1,5 @@
+spring.application.name=email-service
+
+aws.region=sa-east-1
+aws.accessKeyId=
+aws.secretKey=
